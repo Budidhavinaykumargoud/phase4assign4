@@ -60,7 +60,15 @@ namespace Automatic_Build
                 PBrand = "BrandB",
                 ManufacturingDate = DateTime.Parse("2023-04-20"),
                 ExpiryDate = DateTime.Parse("2023-08-31")
-            }
+            },
+            new Product
+            {
+                PName = "Product6",
+                PPrice = 17.99m,
+                PBrand = "BrandF",
+                ManufacturingDate = DateTime.Parse("2023-01-15"),
+                ExpiryDate = DateTime.Parse("2023-12-31")
+            },
         };
 
             DisplayProductDetails(productList);
