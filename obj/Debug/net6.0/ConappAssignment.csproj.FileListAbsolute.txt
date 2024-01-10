@@ -1,0 +1,15 @@
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\bin\Debug\net6.0\ConappAssignment.exe
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\bin\Debug\net6.0\ConappAssignment.deps.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\bin\Debug\net6.0\ConappAssignment.runtimeconfig.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\bin\Debug\net6.0\ConappAssignment.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\bin\Debug\net6.0\ConappAssignment.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.AssemblyInfoInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.AssemblyInfo.cs
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.sourcelink.json
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\refint\ConappAssignment.dll
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.pdb
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ConappAssignment.genruntimeconfig.cache
+C:\Users\Vinay\Desktop\Simplilearn\Phase4\Day4\Assignment\ConappAssignment\ConappAssignment\obj\Debug\net6.0\ref\ConappAssignment.dll
